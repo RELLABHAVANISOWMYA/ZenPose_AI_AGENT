@@ -40,7 +40,7 @@ pip install streamlit google-generativeai
 
 ### 3. Set your Gemini API key
 
-Edit the `yoga_tutor.py` file:
+Edit the `yoga.py` file:
 
 ```python
 API_KEY = "YOUR_GEMINI_API_KEY"
@@ -53,7 +53,7 @@ You can get an API key by signing up at [Google AI Studio](https://aistudio.goog
 ### 4. Run the app
 
 ```bash
-streamlit run yoga_tutor.py
+streamlit run yoga.py
 ```
 
 ---
